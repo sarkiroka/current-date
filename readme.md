@@ -1,5 +1,5 @@
 # Current date
 
-The current date is **1988.07.06.** (YYYY.MM.DD.)
+The current date is **1988.07.07.** (YYYY.MM.DD.)
 
 This repository will be good when the world ends, so we will know how long it lasted.
